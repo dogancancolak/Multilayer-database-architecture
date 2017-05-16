@@ -1,0 +1,210 @@
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\roslyn\csc.exe
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\roslyn\System.Collections.Immutable.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\roslyn\vbc.exe
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\roslyn\VBCSCompiler.exe
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\roslyn\VBCSCompiler.exe.config
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Food Order Website.dll.config
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Food Order Website.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Food Order Website.pdb
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Antlr3.Runtime.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\EntityFramework.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\EntityFramework.SqlServer.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Google.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Web.Infrastructure.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Newtonsoft.Json.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Owin.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\System.Web.Optimization.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\System.Web.Providers.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\WebGrease.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\System.Web.Optimization.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Antlr3.Runtime.pdb
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Newtonsoft.Json.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\EntityFramework.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\EntityFramework.SqlServer.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\System.Web.Providers.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Google.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\obj\Debug\Food Order Website.csprojResolveAssemblyReference.cache
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\obj\Debug\Food Order Website.dll
+c:\users\reza-da\documents\visual studio 2015\Projects\Food Order Website\Food Order Website\obj\Debug\Food Order Website.pdb
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\roslyn\csc.exe
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\roslyn\vbc.exe
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Food Order Website.dll.config
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Food Order Website.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Food Order Website.pdb
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Antlr3.Runtime.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\BLL.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\EL.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\EntityFramework.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\EntityFramework.SqlServer.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\FL.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Newtonsoft.Json.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Owin.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\System.Web.Optimization.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\System.Web.Providers.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\WebGrease.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\BLL.pdb
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\EL.pdb
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\FL.pdb
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\System.Web.Optimization.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Antlr3.Runtime.pdb
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Newtonsoft.Json.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\EntityFramework.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\EntityFramework.SqlServer.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\System.Web.Providers.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\obj\Debug\Food Order Website.csprojResolveAssemblyReference.cache
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\obj\Debug\Food Order Website.dll
+C:\Users\Dogancan\Desktop\Food Order Website\Food Order Website\obj\Debug\Food Order Website.pdb
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\roslyn\csc.exe
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\roslyn\vbc.exe
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Food Order Website.dll.config
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Food Order Website.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Food Order Website.pdb
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Antlr3.Runtime.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\BLL.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\EL.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\EntityFramework.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\EntityFramework.SqlServer.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\FL.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Newtonsoft.Json.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Owin.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\System.Web.Optimization.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\System.Web.Providers.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\WebGrease.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\BLL.pdb
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\EL.pdb
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\FL.pdb
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\System.Web.Optimization.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Antlr3.Runtime.pdb
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Newtonsoft.Json.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\EntityFramework.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\EntityFramework.SqlServer.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\System.Web.Providers.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\obj\Debug\Food Order Website.csprojResolveAssemblyReference.cache
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\obj\Debug\Food Order Website.dll
+C:\Users\02484107\Desktop\bll\Food Order Website\Food Order Website\obj\Debug\Food Order Website.pdb

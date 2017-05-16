@@ -1,0 +1,6 @@
+C:\Users\Dogancan\Desktop\BLL\BLL\FL\bin\Debug\FL.dll
+C:\Users\Dogancan\Desktop\BLL\BLL\FL\bin\Debug\FL.pdb
+C:\Users\Dogancan\Desktop\BLL\BLL\FL\bin\Debug\EL.dll
+C:\Users\Dogancan\Desktop\BLL\BLL\FL\bin\Debug\EL.pdb
+C:\Users\Dogancan\Desktop\BLL\BLL\FL\obj\Debug\FL.dll
+C:\Users\Dogancan\Desktop\BLL\BLL\FL\obj\Debug\FL.pdb
